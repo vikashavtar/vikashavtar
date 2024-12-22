@@ -76,7 +76,7 @@
 ## 📫 How to Reach Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/vikash-kumar">
+  <a href="https://www.linkedin.com/in/vikash-kumar-94253451/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:vikashdataanalyst@gmail.com">
